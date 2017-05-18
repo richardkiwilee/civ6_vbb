@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mod id="50CDCD22-67DB-7DF0-9FC1-C64B06DD4B68" version="1.0">
+  <Properties>
+    <Name>Vic_Black_Box</Name>
+    <Description></Description>
+    <Teaser>Removing WorldRankings.</Teaser>
+    <Authors>Richard Kiwi Lee</Authors>
+    <SpecialThanks></SpecialThanks>
+  </Properties>
+  <Components>
+    <ImportFiles id="IMPORT_FILES">
+      <Items>
+  
+<File>UI/PartialScreens/CityStates.xml</File>	
+<File>UI/PartialScreens/EspionageOverview.xml</File>
+<File>UI/PartialScreens/OldCityStatesPopup.xml</File>
+<File>UI/PartialScreens/WorldRankings.xml</File>
+<File>UI/PartialScreens/CityStates.lua</File>	
+<File>UI/PartialScreens/EspionageOverview.lua</File>
+<File>UI/PartialScreens/OldCityStatesPopup.lua</File>
+<File>UI/PartialScreens/WorldRankings.lua</File>     </Items>
+    </ImportFiles>
+   </Components>
+  <Files>
+    
+<File>UI/PartialScreens/CityStates.xml</File>	
+<File>UI/PartialScreens/EspionageOverview.xml</File>
+<File>UI/PartialScreens/OldCityStatesPopup.xml</File>
+<File>UI/PartialScreens/WorldRankings.xml</File>
+<File>UI/PartialScreens/CityStates.lua</File>	
+<File>UI/PartialScreens/EspionageOverview.lua</File>
+<File>UI/PartialScreens/OldCityStatesPopup.lua</File>
+<File>UI/PartialScreens/WorldRankings.lua</File>
+  <Settings>
+  
+  </Settings>
+</Mod>
